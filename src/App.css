@@ -6,6 +6,25 @@
   height: 40vmin;
   pointer-events: none;
 }
+/* redux with api */
+
+.header {
+  width: 100%;
+  background-color: blue;
+  color: #fff;
+  padding: 1%;
+  text-align: left;
+}
+a {
+  text-decoration: none !important;
+  color: white !important;
+  padding: 2px;
+}
+.card-header {
+  text-align: right;
+}
+
+/* redux with api */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
